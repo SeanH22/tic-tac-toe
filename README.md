@@ -1,5 +1,5 @@
-# Product Name
-> Short blurb about what your product does.
+# Tic-Tac-Toe
+> Basic Javascript, HTML and CSS teaching session.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
@@ -17,11 +17,6 @@ OS X & Linux:
 npm install my-crazy-module --save
 ```
 
-Windows:
-
-```sh
-edit autoexec.bat
-```
 
 ## Usage example
 
